@@ -62,4 +62,4 @@ Telegram频道传送门：精选热门 Telegram 频道，覆盖资讯、娱乐�
 
 系统还原娱乐与网红事件全貌，从首次爆料到网络发酵与舆论走向，脉络清晰、内容详实，助力用户深入理解事件发展，为内容策划与舆情研判提供参考价值。
 
-[Canonical link](）
+[Canonical link](https://github.com/af20250624/af20250624）
